@@ -1,0 +1,16 @@
+div {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+}
+
+p {
+  border: 2px black solid;
+  padding: 16px;
+  font-size: 30px;
+}
+button {
+  height: 60px;
+}
